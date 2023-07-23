@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/harllonpaz/Workspace/toDoList/toDoList/toDoList.csproj": {}
+    "/Users/harllonpaz/Workspace/to-do-list/toDoList/toDoList.csproj": {}
   },
   "projects": {
-    "/Users/harllonpaz/Workspace/toDoList/toDoList/toDoList.csproj": {
+    "/Users/harllonpaz/Workspace/to-do-list/toDoList/toDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/harllonpaz/Workspace/toDoList/toDoList/toDoList.csproj",
+        "projectUniqueName": "/Users/harllonpaz/Workspace/to-do-list/toDoList/toDoList.csproj",
         "projectName": "toDoList",
-        "projectPath": "/Users/harllonpaz/Workspace/toDoList/toDoList/toDoList.csproj",
+        "projectPath": "/Users/harllonpaz/Workspace/to-do-list/toDoList/toDoList.csproj",
         "packagesPath": "/Users/harllonpaz/.nuget/packages/",
-        "outputPath": "/Users/harllonpaz/Workspace/toDoList/toDoList/obj/",
+        "outputPath": "/Users/harllonpaz/Workspace/to-do-list/toDoList/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/harllonpaz/.nuget/NuGet/NuGet.Config"

@@ -1,5 +1,4 @@
-﻿using EntityFrameworkPlayground.Data;
-using EntityFrameworkPlayground.Models;
+﻿using toDoList.Data;
 using System.Configuration;
 using System;
 
@@ -9,9 +8,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        var context = new ConsumerContext(ConfigurationManager.ConnectionStrings);
+        var config = ConfigurationManager.OpenExeConfiguration(ConfigurationUserLevel.None);
+        var connectionString = config.ConnectionStrings.ConnectionStrings["taskDbConnection"].ToString();
+        var context = new TasksContext(connectionString);
 
-        Console.WriteLine(context.Products.Count());
+        //Console.WriteLine(context.Products.Count());
         //var prod = new Products
         //{
         //    ProductId = 3,

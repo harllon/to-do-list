@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "veT7BsDJFhhtZUhZbOsexJAxdqyk+HR2SEJHdEWXJYqFDOXAOTfu7MEsk0opfPOhF3Q67aW12CXNEDlnn6WdWw==",
+  "dgSpecHash": "kAMyX+1Z1SRHr2/7wfN6lny+57YFb7J6DnV8xbaT9NuTVfIatXwTkSAC5ECn8U5ILboqehh+GzzjqXzH+BxZhQ==",
   "success": true,
-  "projectFilePath": "/Users/harllonpaz/Workspace/toDoList/toDoList/toDoList.csproj",
+  "projectFilePath": "/Users/harllonpaz/Workspace/to-do-list/toDoList/toDoList.csproj",
   "expectedPackageFiles": [
     "/Users/harllonpaz/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/harllonpaz/.nuget/packages/microsoft.entityframeworkcore/7.0.9/microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
